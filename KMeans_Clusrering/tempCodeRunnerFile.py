@@ -1,0 +1,8 @@
+predictions = model.predict(X_test)
+# print("predictions:",predictions)
+# print("actual values:",y_test)
+# print("score:",accuracy_score(y_test,predictions))
+# print("centroids:",model.cluster_centers_)
+# print("labels:",model.labels_)
+# # print("inertia:",model.inertia_)
+# # print("n_iter:",model.n_iter_)
